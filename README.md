@@ -6,7 +6,7 @@ This post will see how to integrate an up-and-coming utility-first CSS library c
 # Installation
 1. Create dot net core Web app (MVC) with dot net 6.
 2. Goto ```wwwroot/lib``` delete bootstrap.
-3. Goto ```wwwroot/css``` create two css files ```input.css`` and ```output.css``` in css folder.
+3. Goto ```wwwroot/css``` create two css files ```input.css``` and ```output.css``` in css folder.
 4. Right click on project click on ```open in terminal```.
 5. Run command ```npm init -y```. It will create ```package.json``` and ```package-lock.json```.
 6. Add required modules ```cross-env```, ```autoprefixer```, ```postcss```, ```postcss-cli```, ```tailwindcss```, ```tailwindcss-textshadow```, ```cssnano``` by running the following command.
